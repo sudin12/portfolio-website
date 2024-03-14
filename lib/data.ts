@@ -44,11 +44,27 @@ export const experiencesData = [
   },
   {
     title: "Graphics Designer",
-    location: "Satdobato",
+    location: "Trifecta Dg Media",
     description:
       "I worked as a graphics designer there.",
     icon: React.createElement(CgWorkAlt),
     date: "2023",
+  },
+  {
+    title: "Game Developer",
+    location: "Sigma Labs",
+    description:
+      "Responsible for full development cycle of the 2d game for nft platform, designing  concept art for the game and creating sprites for games.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2023 - 2024",
+  },
+  {
+    title: "Game Artist and Animatior",
+    location: "Ochrebyte",
+    description:
+      "Responsible for designing lottery tickets for the lottery game, and overall visual aspects of the game.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024 - Present",
   },
 
 ] as const;
